@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ootd">40sp</dimen>
+    <dimen name="ket">30sp</dimen>
+    <dimen name="width_image">100dp</dimen>
+    <dimen name="height_image">100dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--membuat ImageView untuk menampilkan gambar bagian dalam satu fragment-->
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cityLight"
+    android:id="@+id/imageView_part_layout_fragment">
+
+
+
+</ImageView>
